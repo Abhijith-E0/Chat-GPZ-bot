@@ -35,7 +35,7 @@ A modern AI chatbot built with **Node.js**, **Express.js**, **HTML**, **CSS**, a
 
 ### Live Demo
 
-![Watch the Full Demo](demo/demo.mp4)
+![Watch the Full Demo](.demo/demo.mp4)
 
 
 ---
