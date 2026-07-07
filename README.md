@@ -27,7 +27,7 @@ A modern AI chatbot built with **Node.js**, **Express.js**, **HTML**, **CSS**, a
 
 ### Chat Interface
 
-![Chat-gpz-bot](.images/Screenshot1.png)
+![Chat-gpz-bot](images/Screenshot1.png)
 
 ### AI Response
 
