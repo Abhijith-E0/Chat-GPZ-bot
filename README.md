@@ -1,25 +1,25 @@
-# 🤖 Chat-GPZ Bot
+# Chat-GPZ Bot
 
 A modern AI chatbot built with **Node.js**, **Express.js**, **HTML**, **CSS**, and **JavaScript**, powered by **Google Gemini AI**. The application features a sleek ChatGPT-inspired interface with real-time AI conversations.
 
 ---
 
-## ✨ Features
+## Features
 
-- 🤖 Google Gemini AI Integration
-- 💬 Real-time AI Chat
-- ⚡ Streaming Response Support (Optional)
-- 🎨 Modern ChatGPT-inspired UI
-- 📱 Responsive Design
-- 📂 Chat History Sidebar
-- ➕ New Chat Functionality
-- ⌨️ Enter to Send Message
-- 📎 Attachment Button UI
-- 🌙 Dark Theme
-- ✨ Smooth Animations
-- 🚀 Express.js Backend
-- 🔒 Environment Variable Support
-- 📜 Clean and Beginner-Friendly Code
+- Google Gemini AI Integration
+- Real-time AI Chat
+- Streaming Response Support (Optional)
+- Modern ChatGPT-inspired UI
+- Responsive Design
+- Chat History Sidebar
+- New Chat Functionality
+- Enter to Send Message
+- Attachment Button UI
+- Dark Theme
+- Smooth Animations
+- Express.js Backend
+- Environment Variable Support
+- Clean and Beginner-Friendly Code
 
 ---
 
