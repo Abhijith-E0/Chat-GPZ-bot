@@ -27,11 +27,11 @@ A modern AI chatbot built with **Node.js**, **Express.js**, **HTML**, **CSS**, a
 
 ### Chat Interface
 
-![Chat](.images/Screenshot_2026-07-08_015628.png)
+![Chat](.images/Screenshot1.png)
 
 ### AI Response
 
-![Response](screenshots/response.png)
+![Chat](.images/Screenshot2.png)
 
 ---
 
